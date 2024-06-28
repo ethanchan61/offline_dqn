@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T08:35:22.857Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" etag="SejdDk5OZBGbsowrEKqq" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T10:49:17.687Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" etag="G418_rkV_U-KSQC7q_vI" version="24.6.4" type="github">
   <diagram name="Page-1" id="vWs7hlCeRP3OqgUedrx3">
     <mxGraphModel dx="2838" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -201,6 +201,9 @@
         </mxCell>
         <mxCell id="fhyWXsoEMTmmNhnozwWK-68" value="data:裁判文书网/公开法律Q&amp;amp;A x=问题 y=相关法条" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-935" y="-440" width="370" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fhyWXsoEMTmmNhnozwWK-69" value="冷启动方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="-380" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
